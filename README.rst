@@ -2,7 +2,7 @@ decli-git-demo
 ==============
 
 
-This is the code used in the tutorial explaining `decli <https://github.com/Woile/decli>`_ in my `personal blog <http://woile.github.io/>`_.
+This is the code used in the tutorial explaining `decli <https://github.com/Woile/decli>`_ in my `personal blog <http://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/>`_.
 
 Installation
 ------------
